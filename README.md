@@ -1,2 +1,2 @@
 # DataAnalytics
-Descriptive Analytics on structyred data
+Descriptive Analytics on structured data
